@@ -1,6 +1,6 @@
 # mdocourse
 This webpage contains **only** tutorials.
-The slides of the different courses are on *SUPAERO's LMS*. 
+The slides of the different courses are available on *SUPAERO's LMS*. 
 
 1st MATLAB tutorial on [Complex step derivatives](http://htmlpreview.github.io/?https://github.com/jomorlier/mdocourse2018/blob/master/ComplexStep/ComplexStep.html)
 A single (complex) function evaluations computes both the function's value (Re) and the derivative (Im).
