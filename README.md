@@ -11,7 +11,7 @@ Is it **always** possible to do this? I mean with a standard code form industry 
 2nd MATLAB tutorial on [gradient evaluation](http://htmlpreview.github.io/?https://github.com/jomorlier/mdocourse2018/blob/master/Sensibility/sensitivity_TD.html)
 
 Comparison of **Symbolic/Finite Differences/DIRECT/ADJOINT Method** on a really simple mechanical system (2DOFs).
-Play with the code for **checking** Symbolic with Finite Differences. Play with $\delta_x$ ?
+Play with the code for **checking** Symbolic with Finite Differences. Play with $$\delta_x$$ ?
 By the way, just add the complex step approach, not so difficult when you have access to the **original** code.
 Oh, at the end which method is exact? 
 
@@ -23,11 +23,7 @@ Thanks to my PhD Simone.
 Part B:  [Stress Based TopOpt](http://htmlpreview.github.io/?https://github.com/jomorlier/mdocourse2018/blob/master/AdvancedTopOpt/StressBasedTopOpt.html)
 Thanks **AGAIN** to my PhD Simone.
 Before you can use Method of Moving Asymptotes (MMA) as an optimizer in our stress based topology optimization program, you need to obtain the Matlab implementation of MMA from Prof. Krister Svanberg (krille@math.kth.se) from KTH in Stockholm Sweden.
-
-Comparison of **Symbolic/Finite Differences/DIRECT/ADJOINT Method** on a really simple mechanical system (2DOFs).
-Play with the code for **checking** Symbolic with Finite Differences. Play with $\delta_x$ ?
-By the way, just add the complex step approach, not so difficult when you have access to the **original** code.
-Oh, at the end which method is exact? 
+Current MDO project in SUPAERO Engineering program.
 
 4th MATLAB tutorial on regression using [GP, or Kriging](http://htmlpreview.github.io/?https://github.com/jomorlier/mdocourse2018/blob/master/GP_Tutorial/GP_Tutorial.html)
 
