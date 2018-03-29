@@ -1,0 +1,189 @@
+
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+   <!--
+This HTML was auto-generated from MATLAB code.
+To make changes, update the MATLAB code and republish this document.
+      --><title>Complex Step in few steps...</title><meta name="generator" content="MATLAB 9.3"><link rel="schema.DC" href="http://purl.org/dc/elements/1.1/"><meta name="DC.date" content="2018-03-22"><meta name="DC.source" content="ComplexStep.m"><style type="text/css">
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,font,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:transparent}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:'';content:none}:focus{outine:0}ins{text-decoration:none}del{text-decoration:line-through}table{border-collapse:collapse;border-spacing:0}
+
+html { min-height:100%; margin-bottom:1px; }
+html body { height:100%; margin:0px; font-family:Arial, Helvetica, sans-serif; font-size:10px; color:#000; line-height:140%; background:#fff none; overflow-y:scroll; }
+html body td { vertical-align:top; text-align:left; }
+
+h1 { padding:0px; margin:0px 0px 25px; font-family:Arial, Helvetica, sans-serif; font-size:1.5em; color:#d55000; line-height:100%; font-weight:normal; }
+h2 { padding:0px; margin:0px 0px 8px; font-family:Arial, Helvetica, sans-serif; font-size:1.2em; color:#000; font-weight:bold; line-height:140%; border-bottom:1px solid #d6d4d4; display:block; }
+h3 { padding:0px; margin:0px 0px 5px; font-family:Arial, Helvetica, sans-serif; font-size:1.1em; color:#000; font-weight:bold; line-height:140%; }
+
+a { color:#005fce; text-decoration:none; }
+a:hover { color:#005fce; text-decoration:underline; }
+a:visited { color:#004aa0; text-decoration:none; }
+
+p { padding:0px; margin:0px 0px 20px; }
+img { padding:0px; margin:0px 0px 20px; border:none; }
+p img, pre img, tt img, li img, h1 img, h2 img { margin-bottom:0px; } 
+
+ul { padding:0px; margin:0px 0px 20px 23px; list-style:square; }
+ul li { padding:0px; margin:0px 0px 7px 0px; }
+ul li ul { padding:5px 0px 0px; margin:0px 0px 7px 23px; }
+ul li ol li { list-style:decimal; }
+ol { padding:0px; margin:0px 0px 20px 0px; list-style:decimal; }
+ol li { padding:0px; margin:0px 0px 7px 23px; list-style-type:decimal; }
+ol li ol { padding:5px 0px 0px; margin:0px 0px 7px 0px; }
+ol li ol li { list-style-type:lower-alpha; }
+ol li ul { padding-top:7px; }
+ol li ul li { list-style:square; }
+
+.content { font-size:1.2em; line-height:140%; padding: 20px; }
+
+pre, code { font-size:12px; }
+tt { font-size: 1.2em; }
+pre { margin:0px 0px 20px; }
+pre.codeinput { padding:10px; border:1px solid #d3d3d3; background:#f7f7f7; }
+pre.codeoutput { padding:10px 11px; margin:0px 0px 20px; color:#4c4c4c; }
+pre.error { color:red; }
+
+@media print { pre.codeinput, pre.codeoutput { word-wrap:break-word; width:100%; } }
+
+span.keyword { color:#0000FF }
+span.comment { color:#228B22 }
+span.string { color:#A020F0 }
+span.untermstring { color:#B20000 }
+span.syscmd { color:#B28C00 }
+
+.footer { width:auto; padding:10px 0px; margin:25px 0px 0px; border-top:1px dotted #878787; font-size:0.8em; line-height:140%; font-style:italic; color:#878787; text-align:left; float:none; }
+.footer p { margin:0px; }
+.footer a { color:#878787; }
+.footer a:hover { color:#878787; text-decoration:underline; }
+.footer a:visited { color:#878787; }
+
+table th { padding:7px 5px; text-align:left; vertical-align:middle; border: 1px solid #d6d4d4; font-weight:bold; }
+table td { padding:7px 5px; text-align:left; vertical-align:top; border:1px solid #d6d4d4; }
+
+
+
+
+
+  </style></head><body><div class="content"><h1>Complex Step in few steps...</h1><!--introduction--><!--/introduction--><h2>Contents</h2><div><ul><li><a href="#1">Prof Joseph Morlier, ISAE-SUPAERO</a></li><li><a href="#3">References</a></li></ul></div><h2 id="1">Prof Joseph Morlier, ISAE-SUPAERO</h2><p>The idea is simple and dates from 1967 [1]. Recent work in multidisciplinary optimization [1] has revived the interest of this method (sensitivity calculation). It is in fact a development of Taylor in the case where F (the function to be derived) is analytic with real values.</p><p>Let $F(z)$be a function and <img src="ComplexStep_eq00349689335557330151.png" alt="$x_0$"> a real, Taylor development of $F(z)$gives:</p><p><img src="ComplexStep_eq00594102076041621045.png" alt="$$ F(x_0+ih) = F(x_0)+ihF'(x_0)-h^2F''(x_0)/2!-ih^3F^{(3)}/3!+... $$"></p><p>...by taking imaginary part (dividing by <img src="ComplexStep_eq08062630503172331818.png" alt="$h$">), it comes:</p><p><img src="ComplexStep_eq01770431293952747003.png" alt="$$ F'(x_0) = Im(F(x_0+ih))/h + O(h^2) $$"></p><p>Evaluate <img src="ComplexStep_eq08597826192214703288.png" alt="$F$"> with a complex argument <img src="ComplexStep_eq13241014653549214987.png" alt="$x_0+ih$">, dividing by <img src="ComplexStep_eq08062630503172331818.png" alt="$h$">, gives the derivative <img src="ComplexStep_eq08443829572167084007.png" alt="$F'(x_0)$"> with an order of precision <img src="ComplexStep_eq13203312286856168318.png" alt="$O(h^2)$">. Let's take$h=10^{-8}$ , the approximation error of <img src="ComplexStep_eq08443829572167084007.png" alt="$F'(x_0)$"> is the same than rounded error.</p><pre class="codeinput">clear <span class="string">all</span>; close <span class="string">all</span>;
+<span class="comment">%display</span>
+f = @(x) sin(3*x)*log(x);
+ezplot(f)
+<span class="comment">%Symbolic computation (check only</span>
+<span class="comment">%dfdx = 3*cos(3*x)*log(x) + sin(3*x)/x</span>
+syms <span class="string">x</span>
+dfdx=diff(f,x)
+<span class="comment">%Derivative evaluation at x=0.7 for 30 values in the range 10^-1 &agrave; 10^-20</span>
+x = 0.7;
+<span class="comment">%Loop on step</span>
+k=0;
+<span class="keyword">for</span> h = logspace(-1,-20,30)
+    k=k+1;
+    H(k)=h;
+<span class="comment">%analytical derivative</span>
+dfdx_a=3*cos(3*x)*log(x) + sin(3*x)/x;
+<span class="comment">%finite difference</span>
+dfdx_fd = (f(x) - f(x-h))/h;
+<span class="comment">%central difference</span>
+dfdx_cd = (f(x+h)-f(x-h))/(2*h);
+<span class="comment">%complex method</span>
+dfdx_cm = imag(f(x+h*i)/h);
+<span class="comment">%Compute errors</span>
+errs(k,1)=abs(dfdx_fd - dfdx_a);
+errs(k,2)=abs(dfdx_cd - dfdx_a);
+errs(k,3)=abs(dfdx_cm - dfdx_a);
+<span class="keyword">end</span>
+<span class="comment">%Display</span>
+loglog(H,errs,<span class="string">'--.'</span>,<span class="string">'linewidth'</span>, 3)
+   axis([eps 1 eps 1])
+   set(gca,<span class="string">'xdir'</span>,<span class="string">'rev'</span>)
+   legend(<span class="string">'finite difference'</span>,<span class="string">'central difference'</span>,<span class="string">'complex step'</span>,<span class="string">'location'</span>,<span class="string">'southwest'</span>)
+   xlabel(<span class="string">'step size h'</span>)
+   ylabel(<span class="string">'error'</span>)
+</pre><pre class="codeoutput">Warning: Function failed to evaluate on array inputs; vectorizing
+the function may speed up its evaluation and avoid the need to loop
+over array elements. 
+ 
+dfdx =
+ 
+3*cos(3*x)*log(x) + sin(3*x)/x
+ 
+</pre><img vspace="5" hspace="5" src="ComplexStep_01.png" alt=""> <p>The complex step method is always more accurate than the finite difference method of order 1 (normal!). The method of centered differences (of order 2) begins to diverge more quickly (towards 10 ^ -6) than the method complex step (10 ^ -8)</p><h2 id="3">References</h2><p>[1] Lyness, James N., and Moler, Cleve B., Numerical Differentiation of Analytic Functions, <i>SIAM J. Numerical Analysis 4</i>, 1967, pp. 202-210.  <a href="http://epubs.siam.org/doi/abs/10.1137/0704019">epubs.siam.org/doi/abs/10.1137/0704019</a></p><p>[2] Martins, Joaquim R. R. A., A Guide to the Complex-Step Derivative Approximation, <a href="http://mdolab.engin.umich.edu/content/guide-complex-step-derivative-approximation-0">complex step guide</a></p><p>Online <a href="https://blogs.mathworks.com/cleve/2013/10/14/complex-step-differentiation/">https://blogs.mathworks.com/cleve/2013/10/14/complex-step-differentiation/</a></p><p class="footer"><br><a href="http://www.mathworks.com/products/matlab/">Published with MATLAB&reg; R2017b</a><br></p></div><!--
+##### SOURCE BEGIN #####
+%% Complex Step in few steps...
+%% Prof Joseph Morlier, ISAE-SUPAERO
+% 
+% 
+% The idea is simple and dates from 1967 [1]. Recent work in multidisciplinary 
+% optimization [1] has revived the interest of this method (sensitivity calculation). 
+% It is in fact a development of Taylor in the case where F (the function to be 
+% derived) is analytic with real values.
+% 
+% Let $F(z)$be a function and $x_0$ a real, Taylor development of $F(z)$gives:
+% 
+% $$ F(x_0+ih) = F(x_0)+ihF'(x_0)-h^2F''(x_0)/2!-ih^3F^{(3)}/3!+... $$
+% 
+% ...by taking imaginary part (dividing by $h$), it comes:
+% 
+% $$ F'(x_0) = Im(F(x_0+ih))/h + O(h^2) $$
+% 
+% Evaluate $F$ with a complex argument $x_0+ih$, dividing by $h$, gives the 
+% derivative $F'(x_0)$ with an order of precision $O(h^2)$. Let's take$h=10^{-8}$ 
+% , the approximation error of $F'(x_0)$ is the same than rounded error.
+
+clear all; close all;
+%display
+f = @(x) sin(3*x)*log(x);
+ezplot(f)
+%Symbolic computation (check only
+%dfdx = 3*cos(3*x)*log(x) + sin(3*x)/x
+syms x
+dfdx=diff(f,x)
+%Derivative evaluation at x=0.7 for 30 values in the range 10^-1 à 10^-20
+x = 0.7;
+%Loop on step
+k=0;
+for h = logspace(-1,-20,30)
+    k=k+1; 
+    H(k)=h;
+%analytical derivative
+dfdx_a=3*cos(3*x)*log(x) + sin(3*x)/x;
+%finite difference
+dfdx_fd = (f(x) - f(x-h))/h;
+%central difference
+dfdx_cd = (f(x+h)-f(x-h))/(2*h);
+%complex method
+dfdx_cm = imag(f(x+h*i)/h);
+%Compute errors
+errs(k,1)=abs(dfdx_fd - dfdx_a);
+errs(k,2)=abs(dfdx_cd - dfdx_a);
+errs(k,3)=abs(dfdx_cm - dfdx_a);
+end
+%Display
+loglog(H,errs,'REPLACE_WITH_DASH_DASH.','linewidth', 3)
+   axis([eps 1 eps 1])
+   set(gca,'xdir','rev')
+   legend('finite difference','central difference','complex step','location','southwest')
+   xlabel('step size h')
+   ylabel('error')
+%% 
+% The complex step method is always more accurate than the finite difference 
+% method of order 1 (normal!). The method of centered differences (of order 2) 
+% begins to diverge more quickly (towards 10 ^ -6) than the method complex step 
+% (10 ^ -8)
+%% References
+% [1] Lyness, James N., and Moler, Cleve B., Numerical Differentiation of Analytic 
+% Functions, _SIAM J. Numerical Analysis 4_, 1967, pp. 202-210.  <http://epubs.siam.org/doi/abs/10.1137/0704019 
+% epubs.siam.org/doi/abs/10.1137/0704019>
+% 
+% [2] Martins, Joaquim R. R. A., A Guide to the Complex-Step Derivative Approximation, 
+% <http://mdolab.engin.umich.edu/content/guide-complex-step-derivative-approximation-0 
+% complex step guide>
+% 
+% Online <https://blogs.mathworks.com/cleve/2013/10/14/complex-step-differentiation/ 
+% https://blogs.mathworks.com/cleve/2013/10/14/complex-step-differentiation/>
+% 
+%
+##### SOURCE END #####
+--></body></html>
