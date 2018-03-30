@@ -30,5 +30,5 @@ Current MDO project in SUPAERO Engineering program.
 It's always working ? On interpolation **and** extrapolation ?
 By the way, GP is an interpolating **or** regressing method ? Play with the code.
 
-
-Another MATLAB tutorial on [Reduced Order Modeling](http://htmlpreview.github.io/?https://github.com/jomorlier/mdocourse2018/blob/master/RoM/RoM.html) using SVD/POD approach.
+RoM.html
+Another MATLAB tutorial on [Reduced Order Modeling](http://htmlpreview.github.io/?https://github.com/jomorlier/mdocourse2018/blob/master/RoM/ROM.html) using SVD/POD approach.
