@@ -37,6 +37,4 @@ Here is a simple example using
 [Fixed Point Iteration ](http://htmlpreview.github.io/?https://github.com/jomorlier/mdocourse2018/blob/master/MDA/tutorialFPI.html) 
 
 
-Here is a simple example using 
-[Fixed Point Iteration ](http://htmlpreview.github.io/?https://github.com/jomorlier/mdocourse2018/blob/master/MDA/tutorialFPI.html) 
 
