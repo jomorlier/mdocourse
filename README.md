@@ -23,7 +23,7 @@ Thanks to my PhD Simone.
 Part B:  [Stress Based TopOpt](http://htmlpreview.github.io/?https://github.com/jomorlier/mdocourse2018/blob/master/AdvancedTopOpt/StressBasedTopOpt.html)
 Thanks **AGAIN** to my PhD Simone.
 Before you can use Method of Moving Asymptotes (MMA) as an optimizer in our stress based topology optimization program, you need to obtain the Matlab implementation of MMA from Prof. Krister Svanberg (krille@math.kth.se) from KTH in Stockholm Sweden.
-Current MDO project in SUPAERO Engineering program.
+
 
 4th MATLAB tutorial on regression using [GP, or Kriging](http://htmlpreview.github.io/?https://github.com/jomorlier/mdocourse2018/blob/master/GP_Tutorial/GP_Tutorial.html)
 
