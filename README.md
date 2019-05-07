@@ -8,6 +8,7 @@ Estimate derivatives by simply passing in a complex number to your function.
 A single (complex) function evaluations computes both the function's value **(Re)** and the derivative **(Im)**.
 Is it **always** possible to do this? I mean with a standard code form industry (Nastran, Fluent etc...)?
 
+
 2nd MATLAB tutorial on [gradient evaluation](http://htmlpreview.github.io/?https://github.com/jomorlier/mdocourse2018/blob/master/Sensibility/sensitivity_TD.html)
 
 Comparison of **Symbolic/Finite Differences/DIRECT/ADJOINT Method** on a really simple mechanical system (2DOFs).
@@ -16,6 +17,9 @@ By the way, just add the complex step approach, not so difficult when you have a
 Oh, at the end which method is exact? 
 
 3rd MATLAB tutorial Advanced Topology Optimization.
+
+For people who are not familliar with Finite Element Method:
+http://designinformaticslab.github.io/mechdesign_lecture/2018/01/28/featop.html
 
 Part A:  [Constraints Agreggation](http://htmlpreview.github.io/?https://github.com/jomorlier/mdocourse2018/blob/master/AdvancedTopOpt/ConstraintsAgreggation.html)
 Thanks to my PhD Simone.
