@@ -38,13 +38,15 @@ Play with the code for **checking** Symbolic with Finite Differences. Play with 
 By the way, just add the complex step approach, not so difficult when you have access to the **original** code.
 Oh, at the end which method is exact? 
 
-
+How Nastran is doing for gradient computation on SOL2OO
+[gradient nastran](https://app.amanote.com/note-taking/document/827200fd-e137-475b-aab5-58d734086654)
 
 ****************
 
 TOPOPT
 
 ****************
+
 
 
 https://github.com/jomorlier/ALMcourse
