@@ -1,5 +1,4 @@
 %% Sensitivity example computation
-%% Prof Joseph Morlier, ISAE-SUPAERO
 %% Clean up
 %%
 
@@ -11,24 +10,19 @@ clc;
 clf;
 %% Define symbolic quantities
 %%
-syms k_1 k_2
-syms u_1 u_2
-syms p_1 p_2
+syms k_1 k_2 real
+syms u_1 u_2 real
+syms p_1 p_2 real
 %the derived quantities will automatically be initialized as symbolic variables as well
-%% 
-% Let's try to solve the sensitivies computation of this mechanical system. 
-% 
-% 
-% 
-% Of course it should respect the equilibrium Ku=P
+
 %% Static equilibrium
 %%
 K=[k_1+k_2 -k_2; -k_2 k_2]
 U=[u_1; u_2]
 P=[p_1;p_2]
 %% 
-% 1/Let's start by computing theses sensitivities using 
-%% SYMBOLIC COMPUTATION (remember previous variables: syms)
+% Let's start by computing theses sensitivities using 
+%% SYMBOLIC (MATLAB's syms)
 
 U0=K\P
 U01=simplify(U0(1))
@@ -48,7 +42,7 @@ gUk1=subs(gradU_k1,{k_1,k_2,p_1,p_2},{1,2,1,2})
 gUk2=subs(gradU_k2,{k_1,k_2,p_1,p_2},{1,2,1,2})
 
 %% 
-% 2/Now we need to compute theses sensitivities by 
+% Now we need to compute theses sensitivities by 
 %% FD (Finite Differences)
 %% 
 
@@ -69,16 +63,14 @@ gFk2_FD=eval(subs(gFk2_FD,{k_1,k_2,p_1,p_2},{1,2,1,2}))
 % Please double click on the workspace value of  -8.999991000009000 for 
 % gFk1_FD and -0.999999500000250 for gFk2_FD (WARNING DOUBLE /SINGLE PRECISION)
 % 
-% 
-% 
-% 3/ Now we need to compute theses sensitivities by 
+% Now we need to compute theses sensitivities by 
 %% DIRECT METHOD
 
 invK=inv(K)
 dK_k1=diff(K,k_1)
 dK_k2=diff(K,k_2)
-dP_k1=diff(P,k_1)
-dP_k2=diff(P,k_2)
+dP_k1=diff(P(1),k_1)
+dP_k2=diff(P(2),k_2)
 gUk1_DM=invK*(dP_k1-diff(K,k_1)*U0)
 gUk2_DM=invK*(dP_k2-diff(K,k_2)*U0)
 gFk1_DM=P'*gUk1_DM
@@ -86,9 +78,45 @@ gFk2_DM=P'*gUk2_DM
 gFk1_DM=eval(subs(gFk1_DM,{k_1,k_2,p_1,p_2},{1,2,1,2}))
 gFk2_DM=eval(subs(gFk2_DM,{k_1,k_2,p_1,p_2},{1,2,1,2}))
 %% 
-% Which method is exact???
+% Un petit test pour comparer l'exactitude des 2 méthodes
 
 gFk1_DM==-9 
 gFk1_FD==-9
 gFk2_DM==-1 
 gFk2_FD==-1
+%% ADJOINT METHOD
+% 
+% 
+% 
+% 
+% G= U'KU=U'P=U1*P1+U2*U2
+% 
+% 
+% 
+% 
+
+G=U'*P
+dG_du1=diff(G, u_1);
+dG_du2=diff(G, u_2);
+dG_dU=[dG_du1; dG_du2]
+
+Lambda=inv(K')*dG_dU
+Lambda=eval(subs(Lambda,{k_1,k_2,p_1,p_2},{1,2,1,2}))
+U=eval(subs(U0,{k_1,k_2,p_1,p_2},{1,2,1,2}))
+dG_k1=diff(G,k_1) 
+dG_k2=diff(G,k_2) 
+dG_k2=eval(subs(dG_k2,{k_1,k_2,p_1,p_2},{1,2,1,2}))
+
+dG_k1=eval(subs(dG_k1,{k_1,k_2,p_1,p_2},{1,2,1,2}))
+%% 
+% 
+
+dFtilde_k1=dG_k1 - Lambda'*dK_k1*U-dP_k1
+dFtilde_k2=dG_k2 - Lambda'*dK_k2*U-dP_k2
+gradFtilde_k1=eval(subs(dFtilde_k1,{k_1,k_2,p_1,p_2},{1,2,1,2}))
+gradFtilde_k2=eval(subs(dFtilde_k2,{k_1,k_2,p_1,p_2},{1,2,1,2}))
+%% 
+% Un petit test pour comparer l'exactitude des 2 méthodes
+
+gradFtilde_k1==-9 
+gradFtilde_k2==-1
