@@ -1,5 +1,6 @@
 # mdo course 2020
 
+Thanks to my colleagues of ONERA Toulouse
 
 ****************
 
