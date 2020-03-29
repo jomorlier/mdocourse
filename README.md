@@ -1,13 +1,10 @@
-# mdo course 2020
+# mdocourse 2020
 
 Thanks to my colleagues of ONERA Toulouse
 
-****************
-
+****
 LECTURES
-
-****************
-
+****
 
 The slides of the different courses are available on *SUPAERO's LMS*. 
 
@@ -18,11 +15,26 @@ The slides of the different courses are available on *SUPAERO's LMS*.
 [Theconversation on topopt, but also in french](http://theconversation.com/construire-une-aile-davion-en-lego-cest-possible-87126)
 
 
-****************
 
+## Q&A session 
+3 videoconferences (ZOOM) planned on:
+
+1. Monday 20th of april 2020 9H30-10H30 Kick Off (ZOOM, J. MORLIER) 
+2. Wenesday 22th of april 2020 9H30-10H30 Q&A session and feedback on assignement 1 (ZOOM, J. MORLIER) 
+3. Monday 27th of april 2020 13H30-14H00  Q&A session and feedback on assignement 2 (ZOOM, J. MORLIER) 
+
+
+
+
+
+## AUDIO 
+
+
+
+
+****
 TUTORIALS on GRADIENT/SENSITIVITY
-
-****************
+****
 
 
 1st MATLAB tutorial on [Complex-step derivatives](http://htmlpreview.github.io/?https://github.com/jomorlier/mdocourse/blob/master/ComplexStep/ComplexStep.html)
