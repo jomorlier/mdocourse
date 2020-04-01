@@ -6,4 +6,4 @@ How to formulate? [slide C1 with audio](https://app.amanote.com/note-taking/docu
 
 Engineer's way [slide C1 with audio](https://app.amanote.com/note-taking/document/323fbaef-cc89-4c75-9ec2-514bddd4ccae)
 
-Engineer's way [slide C1 with audio](https://app.amanote.com/note-taking/document/323fbaef-cc89-4c75-9ec2-514bddd4ccae)
+With or Without Gradient [slide C1 with audio](https://app.amanote.com/note-taking/document/33da4de4-813f-4c30-b735-b58286f8572a)
