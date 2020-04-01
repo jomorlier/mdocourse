@@ -6,7 +6,7 @@ LECTURES
 
 The slides of the different courses are available on *SUPAERO's LMS*. 
 
-On some vulgarization
+On some vulgarization articles
 
 [Linkedin on mdo](https://www.linkedin.com/pulse/optimization-mdo-connecting-people-joseph-morlier/)
 
