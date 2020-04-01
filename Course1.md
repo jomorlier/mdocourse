@@ -1,7 +1,5 @@
-General introduction [slide C1 with audio](https://app.amanote.com/note-taking/document/16c3c1e9-68a1-460c-b7a3-a0a48317e9a2)
+General introduction [slide C1 with audio](https://app.amanote.com/note-taking/document/89441694-0787-4ebf-8238-5cb884839e7b)
 
-Exercice1 intro [slide C1 with audio](https://app.amanote.com/note-taking/document/830f8ac0-7c6e-4585-b725-4493262a3a4d)
+General introduction Continued [slide C1 with audio](https://app.amanote.com/note-taking/document/f88a0d24-2a5e-4ebd-9f24-fefdfbaaf5c4)
 
-Practical example [slide C1 with audio](https://app.amanote.com/note-taking/document/7f788c32-3844-44f5-b357-cff084fcaacd)
-
-Different types of FE elements [slide C1 with audio](https://app.amanote.com/note-taking/document/0746906a-1e85-4e31-bd69-95233fbcce88)
+General introduction Continued [slide C1 with audio](https://app.amanote.com/note-taking/document/f88a0d24-2a5e-4ebd-9f24-fefdfbaaf5c4)
