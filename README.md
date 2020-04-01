@@ -6,6 +6,8 @@ LECTURES
 
 The slides of the different courses are available on *SUPAERO's LMS*. 
 
+On some vulgarization
+
 [Linkedin on mdo](https://www.linkedin.com/pulse/optimization-mdo-connecting-people-joseph-morlier/)
 
 [Linkedin on mdo, but in french](https://www.linkedin.com/pulse/loptimisation-multidisciplinaire-pour-connecter-les-humains-morlier/)
@@ -26,6 +28,8 @@ The slides of the different courses are available on *SUPAERO's LMS*.
 
 
 ## AUDIO 
+
+[Amanote's tutorial](https://www.youtube.com/watch?v=DvLyo9mtf3U)
 
 [Course 1](https://github.com/jomorlier/mdocourse/blob/master/Course1.md)
 
