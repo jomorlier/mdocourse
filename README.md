@@ -1,7 +1,5 @@
 # mdocourse 2020
 
-Thanks to my colleagues of ONERA Toulouse
-
 ****
 LECTURES
 ****
@@ -141,6 +139,26 @@ MDO in academia: From Classrooms to Research (and vice versa) 19/11/19 [at 2nd E
 
 How do we use OpenMDAO in our Research activities at ONERA/SUPAERO (and also in classrooms)? 21/10/19 [at Ohio Aerospace Institute](https://github.com/mid2SUPAERO/Outputs/blob/master/OpenMDAO_Cleveland_LIGHT2-compressed.pdf)
 
+
+## REFERENCES
+
+Over the year, Thanks to my colleagues of UoM, ONERA, Supaero and Airbus.
+
+Books
+"Principles of Optimal Design  Modeling and Computation”, P.Y. Papalambros & D.J. Wilde, Cambridge University Press
+“Elements of Structural Optimization”, R.T. Haftka & Z. Gurdal, Kluwer 
+"Engineering design via surrogate modelling: a practical guide", Forrester, Alexander, Andras Sobester, and Andy Keane, , John Wiley & Sons, 2008.
+
+Online courses
+SMO course, Haftka, Florida Institue of Technology
+Optimisation structurale et multidisciplinaire P. Duysinx, ULB
+Multidisciplinary System Design Optimization, Prof. Olivier de Weck, Prof. Karen Willcox MIT Course Number: ESD.77 / 16.888
+Design Optimization Tools : Course Material Pascal Etman, Piet Schreurs, Rob Bastiaans EIT Eindhoven
+Engineering Optimization, Fred van Keulen, TU DELFT
+Topopt.dk, Topology Optimization, Ole Sigmund , Mechanical Engineering Technical University of Denmark (DTU)
+Optimisation de structures, Gregoire Allaire, X
+Engineering problems in Matlab, Magrab
+Optimisation numerique, Aleks Janka, Université de Fribourg
 
 
 
