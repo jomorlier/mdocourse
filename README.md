@@ -20,14 +20,19 @@ The slides of the different courses are available on *SUPAERO's LMS*.
 3 videoconferences (ZOOM) planned on:
 
 1. Monday 20th of april 2020 9H30-10H30 Kick Off (ZOOM, J. MORLIER) 
-2. Wenesday 22th of april 2020 9H30-10H30 Q&A session and feedback on assignement 1 (ZOOM, J. MORLIER) 
-3. Monday 27th of april 2020 13H30-14H00  Q&A session and feedback on assignement 2 (ZOOM, J. MORLIER) 
+2. Wednesday 22th of april 2020 9H30-10H30 Q&A session and feedback on assignement 1 (ZOOM, J. MORLIER) 
+3. Monday 27th of april 2020 10H00-12H00  Q&A session and feedback on assignement 2 (ZOOM, J. MORLIER) 
 
 
 
 
 
 ## AUDIO 
+
+[Course 1](https://github.com/jomorlier/mdocourse/blob/master/Course1.md)
+
+[Course 2](https://github.com/jomorlier/mdocourse/blob/master/Course2.md)
+
 
 
 
