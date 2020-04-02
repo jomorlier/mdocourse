@@ -4,7 +4,7 @@
 LECTURES
 ****
 
-The slides of the different courses are available on *SUPAERO's LMS*. 
+The slides of the different lectures are available on *SUPAERO's LMS*. 
 
 On some vulgarization articles
 
