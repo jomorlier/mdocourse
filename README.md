@@ -15,16 +15,14 @@ On some vulgarization articles
 [Theconversation on topopt, but also in french](http://theconversation.com/construire-une-aile-davion-en-lego-cest-possible-87126)
 
 
-
 ## Q&A session 
-3 videoconferences (ZOOM) planned on:
+5 videoconferences (ZOOM) planned on:
 
-1. Monday 20th of april 2020 9H30-10H30 Kick Off (ZOOM, J. MORLIER) 
-2. Wednesday 22th of april 2020 9H30-10H30 Q&A session and feedback on assignement 1 (ZOOM, J. MORLIER) 
-3. Monday 27th of april 2020 10H00-11H00  Q&A session and feedback on assignement 2 (ZOOM, J. MORLIER) 
-
-
-
+1. Monday 20th of april 2020 9H30-10H30 Kick Off + help on assignement 1 fmincon(ZOOM, J. MORLIER) 
+2. Wednesday 22th of april 2020 9H30-10H30 Q&A session and feedback on assignement 2 sensitivities (ZOOM, J. MORLIER) 
+3. Monday 27th of april 2020 8H00-10H00  Q&A session and feedback on Exercice 1 truss optimization (ZOOM, M. HERRAZ, G. CAPASSO)
+4. Monday 27th of april 2020 10H00-11H00  Q&A session and help on mini project topopt 3* (ZOOM, J. MORLIER) 
+5. Wednesday 29th of april 2020 13H45-15H45  Q&A session and feedback on mini project topopt 3* (ZOOM, M. HERRAZ, G. CAPASSO) 
 
 
 ## AUDIO 
@@ -34,9 +32,6 @@ On some vulgarization articles
 [Course 1](https://github.com/jomorlier/mdocourse/blob/master/Course1.md)
 
 [Course 2](https://github.com/jomorlier/mdocourse/blob/master/Course2.md)
-
-
-
 
 
 ****
@@ -65,8 +60,6 @@ How Nastran is doing for gradient computation on SOL2OO
 TOPOPT
 
 ****************
-
-
 
 https://github.com/jomorlier/ALMcourse
 
