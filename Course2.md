@@ -1,6 +1,6 @@
 Outro [slide C2 with audio](https://app.amanote.com/note-taking/document/c64d3f3f-a4ce-4006-90e6-99493675e117)
 
-Exercice1 intro [slide C1 with audio](https://app.amanote.com/note-taking/document/830f8ac0-7c6e-4585-b725-4493262a3a4d)
+KS function [slide C2 with audio](https://app.amanote.com/note-taking/document/81a33d56-ed3e-40e6-bc78-da19d4f3f8c4)
 
 Practical example [slide C1 with audio](https://app.amanote.com/note-taking/document/7f788c32-3844-44f5-b357-cff084fcaacd)
 
