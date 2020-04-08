@@ -7,6 +7,7 @@ Quiz on topopt [slide C2 with audio](https://app.amanote.com/note-taking/documen
 Your first exercice available on LMS [slide C2 with audio](https://app.amanote.com/note-taking/document/90346056-005e-46a1-95c5-cf346eb28692)
 
 
+Numerical tools [slide C2 with audio](https://app.amanote.com/note-taking/document/149e6787-957c-4b48-a285-53fccbc1e0be)
 
 
 Read the lecture note and read the handwritten exercice (ZOOM session for correction). An numerical implementation on Matlab will be proposed (ZOOM session for correction) [slide C2 with audio](https://app.amanote.com/note-taking/document/f3d53bf1-2e2e-42be-9da0-a3f7a6eafbd6)
