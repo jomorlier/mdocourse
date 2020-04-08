@@ -4,4 +4,4 @@ Structural optimization [slide C2 with audio](https://app.amanote.com/note-takin
 
 Quiz on topopt [slide C2 with audio](https://app.amanote.com/note-taking/document/c33a7289-56a5-4fb7-aa6f-549646209da8)
 
-Nastran differentiation [slide C3 with audio](https://app.amanote.com/note-taking/document/827200fd-e137-475b-aab5-58d734086654)
+Your first exercice available on LMS [slide C3 with audio](https://app.amanote.com/note-taking/document/90346056-005e-46a1-95c5-cf346eb28692)
