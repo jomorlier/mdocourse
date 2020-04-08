@@ -105,6 +105,9 @@ Try our SMT Python package for doing Efficient Global Optimization
 
 https://smt.readthedocs.io/en/latest/_src_docs/applications/ego.html
 
+
+nice application http://webfoil.engin.umich.edu/about
+
 ****************
 
 SVD
