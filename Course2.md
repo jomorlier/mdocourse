@@ -4,6 +4,13 @@ Gradient definition [slide C2 with audio](https://app.amanote.com/note-taking/do
 
 Gradient continued [slide C2 with audio](https://app.amanote.com/note-taking/document/a8d36ccd-e581-4673-a5fb-9f0544ac4ba2)
 
-Your first exercice available on LMS [slide C2 with audio](https://app.amanote.com/note-taking/document/90346056-005e-46a1-95c5-cf346eb28692)
+Nastran differentiation [slide C2 with audio](https://app.amanote.com/note-taking/document/827200fd-e137-475b-aab5-58d734086654)
 
-Read the lecture note and read the handwritten exercice (ZOOM session for correction). An numerical implementation on Matlab will be proposed (ZOOM session for correction) [slide C2 with audio](https://app.amanote.com/note-taking/document/f3d53bf1-2e2e-42be-9da0-a3f7a6eafbd6)
+
+Your first exercice on Gradient computing available on LMS [slide C2 with audio](https://app.amanote.com/note-taking/document/56f9f771-2ef5-4525-a346-17785fce9aa4)
+
+
+Read the lecture note (constrained Optimization on the LMS) and start by reading the handwritten exercice.
+
+
+A live correction and a numerical implementation on Matlab will be proposed (ZOOM session for correction) [slide C2 with audio](https://app.amanote.com/note-taking/document/f3d53bf1-2e2e-42be-9da0-a3f7a6eafbd6)
