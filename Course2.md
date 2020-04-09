@@ -1,4 +1,4 @@
-Outro [slide C2 with audio](https://app.amanote.com/note-taking/document/c64d3f3f-a4ce-4006-90e6-99493675e117)
+Intro to gradient evaluation [slide C2 with audio](https://app.amanote.com/note-taking/document/c0e1b869-24c5-47a1-8cb2-3b6737f3f9ef)
 
 Structural optimization [slide C2 with audio](https://app.amanote.com/note-taking/document/81a33d56-ed3e-40e6-bc78-da19d4f3f8c4)
 
