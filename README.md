@@ -14,6 +14,9 @@ On some vulgarization articles
 
 [Theconversation on topopt, but also in french](http://theconversation.com/construire-une-aile-davion-en-lego-cest-possible-87126)
 
+[Theconversation on topopt](https://www.linkedin.com/pulse/possible-build-aircraft-wing-lego-joseph-morlier/)
+
+
 
 ## Q&A session 
 5 videoconferences (ZOOM) planned on:
