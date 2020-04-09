@@ -104,7 +104,7 @@ Before you can use Method of Moving Asymptotes (MMA) as an optimizer in our stre
 
 ****************
 
-Gaussian Processes
+Gaussian Processes aka Kriging
 
 ****************
 
@@ -112,6 +112,9 @@ Gaussian Processes
 
 It's always working ? On interpolation **and** extrapolation ?
 By the way, GP is an interpolating **or** regressing method ? Play with the code.
+
+My first book on  Kriging: [Aerospace Engineering](https://optimizationcodes.wordpress.com)
+My first book on  GP:[Machine Learning](http://www.gaussianprocess.org/gpml/code/matlab/doc/)
 
 
 Small recipes on Surrogate modeling and Bayesian optimization 3/10/19 [at TU DELFT](https://github.com/mid2SUPAERO/Outputs/blob/master/Recipes_DELFT-3-10-19-compressed.pdf)
