@@ -7,4 +7,10 @@ TOPOPT applications [slide C3 with audio](https://app.amanote.com/note-taking/do
 
 Compliance differentiation [slide C3 with audio](https://app.amanote.com/note-taking/document/40c3ec3f-f411-40bb-8b86-f84a1c445804)
 
+from topy: 
+
+<div align="left">
+	<img src="./beam_2d_reci_gsf.gif" width=40%>
+</div>
+
 ALTAIR's Blog [TOPOPT](https://blog.altair.com/bang-buck-getting-additive-manufacturing/)
