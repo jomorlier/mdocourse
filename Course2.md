@@ -1,6 +1,6 @@
 Intro to gradient evaluation [slide C2 with audio](https://app.amanote.com/note-taking/document/c0e1b869-24c5-47a1-8cb2-3b6737f3f9ef)
 
-Structural optimization [slide C2 with audio](https://app.amanote.com/note-taking/document/81a33d56-ed3e-40e6-bc78-da19d4f3f8c4)
+Gradient definition [slide C2 with audio](https://app.amanote.com/note-taking/document/672cad97-0e39-45e1-8623-166c6796fb06)
 
 Quiz on topopt [slide C2 with audio](https://app.amanote.com/note-taking/document/c33a7289-56a5-4fb7-aa6f-549646209da8)
 
