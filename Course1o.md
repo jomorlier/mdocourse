@@ -1,3 +1,5 @@
+# Start your first constrained optimization, really?
+
 Outro [slide C1o with audio](https://app.amanote.com/note-taking/document/c64d3f3f-a4ce-4006-90e6-99493675e117)
 
 Structural optimization [slide C1o with audio](https://app.amanote.com/note-taking/document/81a33d56-ed3e-40e6-bc78-da19d4f3f8c4)
