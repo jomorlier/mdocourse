@@ -31,7 +31,7 @@ On some vulgarization articles
 
 [Course 1](https://github.com/jomorlier/mdocourse/blob/master/Course1.md)
 
-[Course 2](https://github.com/jomorlier/mdocourse/blob/master/Course2.md)
+[Course 1 outro](https://github.com/jomorlier/mdocourse/blob/master/Course1o.md)
 
 
 ****
