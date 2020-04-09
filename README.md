@@ -35,6 +35,8 @@ On some vulgarization articles
 
 [Course 2](https://github.com/jomorlier/mdocourse/blob/master/Course2.md)
 
+[Course 3](https://github.com/jomorlier/mdocourse/blob/master/Course3.md)
+
 ****
 TUTORIALS on GRADIENT/SENSITIVITY C1/C2
 ****
