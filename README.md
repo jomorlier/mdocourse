@@ -33,9 +33,10 @@ On some vulgarization articles
 
 [Course 1 outro](https://github.com/jomorlier/mdocourse/blob/master/Course1o.md)
 
+[Course 2](https://github.com/jomorlier/mdocourse/blob/master/Course2.md)
 
 ****
-TUTORIALS on GRADIENT/SENSITIVITY
+TUTORIALS on GRADIENT/SENSITIVITY C1/C2
 ****
 
 
@@ -57,20 +58,39 @@ How Nastran is doing for gradient computation on SOL2OO
 
 ****************
 
-TOPOPT
+Tutorials on TOPOPT C3
 
 ****************
+
+
+
+
+
+****************
+
+ADVANCED TOPOPT (for interested MAE student)
+
+****************
+
 
 https://github.com/jomorlier/ALMcourse
 
 Recent advances in Topology optimization (ALM) 23/11/18 [at ENSAM Bordeaux](https://github.com/mid2SUPAERO/Outputs/blob/master/Presentation_JMSC_FA.pdf)
 
-****************
+You can find in top88 repository all the files, paper, and ...
 
-ADVANCED TOPOPT
+[The 3 point bending projected corrected using top88](http://htmlpreview.github.io/?https://github.com/jomorlier/ALMcourse/blob/master/top88/topopt_3ptBENDING.html)
 
-****************
-3rd MATLAB tutorial Advanced Topology Optimization.
+for people wondering about how linear elasticity of top88.m is working
+
+Prof, can you help to us understand how to compute the stiffness matrix of 2D membrane?
+Explictely ?  [Membrane2D_K](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse/blob/master/Membrane2D_K/Elementarystiffrecmesh.html)
+
+
+Have a look in the top3D repository to do the same but in 3D !!! 
+
+
+MATLAB tutorial Advanced Topology Optimization.
 
 For people who are not familliar with Finite Element Method:
 http://designinformaticslab.github.io/mechdesign_lecture/2018/01/28/featop.html
@@ -110,7 +130,7 @@ nice application http://webfoil.engin.umich.edu/about
 
 ****************
 
-SVD
+ROM 
 
 ****************
 
