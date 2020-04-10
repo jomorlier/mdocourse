@@ -59,7 +59,12 @@ How Nastran is doing for gradient computation on SOL2OO
 
 ## Tutorials on TOPOPT C3
 
+[TOPOPT](https://github.com/jomorlier/mdocourse/blob/master/TOPOPT.md)
+
 ## ADVANCED TOPOPT (BONUS for MAE student)
+
+[advTOPOPT](https://github.com/jomorlier/mdocourse/blob/master/advTOPOPT.md)
+
 
 ****
 PART2:  Multidisciplinary Optimization
