@@ -101,7 +101,8 @@ It's always working ? On interpolation **and** extrapolation ?
 By the way, GP is an interpolating **or** regressing method ? Play with the code.
 
 good book on  Kriging: [Aerospace Engineering](https://optimizationcodes.wordpress.com)
-goof book on  GP:[Machine Learning](http://www.gaussianprocess.org/gpml/code/matlab/doc/)
+
+good book on  GP:[Machine Learning](http://www.gaussianprocess.org/gpml/code/matlab/doc/)
 
 
 Small recipes on Surrogate modeling and Bayesian optimization 3/10/19 [at TU DELFT](https://github.com/mid2SUPAERO/Outputs/blob/master/Recipes_DELFT-3-10-19-compressed.pdf)
@@ -134,17 +135,24 @@ Over the year, Thanks to my colleagues of UoM, ONERA, Supaero and Airbus.
 ## Books
 "Principles of Optimal Design  Modeling and Computation”, P.Y. Papalambros & D.J. Wilde, Cambridge University Press
 “Elements of Structural Optimization”, R.T. Haftka & Z. Gurdal, Kluwer 
+
 "Engineering design via surrogate modelling: a practical guide", Forrester, Alexander, Andras Sobester, and Andy Keane, , John Wiley & Sons, 2008.
 
 ## Online courses
 SMO course, Haftka, Florida Institue of Technology
+
 Optimisation structurale et multidisciplinaire P. Duysinx, ULB
+
 Multidisciplinary System Design Optimization, Prof. Olivier de Weck, Prof. Karen Willcox MIT Course Number: ESD.77 / 16.888
+
 Design Optimization Tools : Course Material Pascal Etman, Piet Schreurs, Rob Bastiaans EIT Eindhoven
+
 Engineering Optimization, Fred van Keulen, TU DELFT
+
 Topopt.dk, Topology Optimization, Ole Sigmund , Mechanical Engineering Technical University of Denmark (DTU)
+
 Optimisation de structures, Gregoire Allaire, X
-Engineering problems in Matlab, Magrab
+
 Optimisation numerique, Aleks Janka, Université de Fribourg
 
 
