@@ -17,4 +17,6 @@ from [ToPy Wiki](https://github.com/williamhunter/topy/wiki)
 
 First Exercice [slide C3 with audio](https://app.amanote.com/note-taking/document/9405809c-3b91-48ae-812e-a3c1c74bd1ee)
 
+Conclusion [slide C3 with audio](https://app.amanote.com/note-taking/document/10f1aa92-2263-4867-9271-6488ac457514)
+
 ALTAIR's Blog [TOPOPT](https://blog.altair.com/bang-buck-getting-additive-manufacturing/)
