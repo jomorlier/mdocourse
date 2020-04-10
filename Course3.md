@@ -15,4 +15,6 @@ from [ToPy Wiki](https://github.com/williamhunter/topy/wiki)
 	<img src="./beam_2d_reci_gsf.gif" width=40%>
 </div>
 
+First Exercice [slide C3 with audio](https://app.amanote.com/note-taking/document/9405809c-3b91-48ae-812e-a3c1c74bd1ee)
+
 ALTAIR's Blog [TOPOPT](https://blog.altair.com/bang-buck-getting-additive-manufacturing/)
