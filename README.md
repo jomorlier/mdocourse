@@ -100,9 +100,9 @@ MATLAB tutorial on regression using [GP, or Kriging](http://htmlpreview.github.i
 It's always working ? On interpolation **and** extrapolation ?
 By the way, GP is an interpolating **or** regressing method ? Play with the code.
 
-good book on  Kriging: [Aerospace Engineering](https://optimizationcodes.wordpress.com)
+Good book on Kriging: [Engineering Design via Surrogate Modelling](https://optimizationcodes.wordpress.com)
 
-good book on  GP:[Machine Learning](http://www.gaussianprocess.org/gpml/code/matlab/doc/)
+Good book on GP: [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/code/matlab/doc/)
 
 
 Small recipes on Surrogate modeling and Bayesian optimization 3/10/19 [at TU DELFT](https://github.com/mid2SUPAERO/Outputs/blob/master/Recipes_DELFT-3-10-19-compressed.pdf)
