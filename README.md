@@ -38,7 +38,7 @@ PART1:  Optimization basics and structural optimization
 [Course 3](https://github.com/jomorlier/mdocourse/blob/master/Course3.md)
 
 
-## TUTORIALS on GRADIENT/SENSITIVITY C1/C2
+## TUTORIALS on gradient sensitivity  C1/C2
 
 [TutorialC1C2](https://github.com/jomorlier/mdocourse/blob/master/tutorialC1C2.md)
 
@@ -47,7 +47,7 @@ PART1:  Optimization basics and structural optimization
 
 [TOPOPT](https://github.com/jomorlier/mdocourse/blob/master/TOPOPT.md)
 
-## ADVANCED TOPOPT (BONUS for MAE student)
+## ADVANCED TOPOPT (FOR SUPAERO's students ONLY)
 
 [advTOPOPT](https://github.com/jomorlier/mdocourse/blob/master/advTOPOPT.md)
 
@@ -56,21 +56,6 @@ PART1:  Optimization basics and structural optimization
 PART2:  Multidisciplinary Optimization
 ****
 
-
-## MDA
-
-What about MDO ? No MDO without MDA...
-Here is a simple example using 
-[Fixed Point Iteration ](http://htmlpreview.github.io/?https://github.com/jomorlier/mdocourse/blob/master/MDA/tutorialFPI.html) 
-
-
-## MDO
-
-A tiny introduction to MDO 21/2/19 [at ICA](https://github.com/mid2SUPAERO/Outputs/blob/master/Presentation_JM_MDO-compressed.pdf)
-
-MDO in academia: From Classrooms to Research (and vice versa) 19/11/19 [at 2nd European Workshop on MDO for Industrial Applications in Aeronautics IRT SE](https://github.com/mid2SUPAERO/Outputs/blob/master/MDOinACADEMIA-compressed.pdf)
-
-How do we use OpenMDAO in our Research activities at ONERA/SUPAERO (and also in classrooms)? 21/10/19 [at Ohio Aerospace Institute](https://github.com/mid2SUPAERO/Outputs/blob/master/OpenMDAO_Cleveland_LIGHT2-compressed.pdf)
 
 
 ****
@@ -120,9 +105,9 @@ Over the year, Thanks to my colleagues of UoM, ONERA, Supaero and Airbus.
 
 ## Books
 "Principles of Optimal Design  Modeling and Computation”, P.Y. Papalambros & D.J. Wilde, Cambridge University Press
+
 “Elements of Structural Optimization”, R.T. Haftka & Z. Gurdal, Kluwer 
 
-"Engineering design via surrogate modelling: a practical guide", Forrester, Alexander, Andras Sobester, and Andy Keane, , John Wiley & Sons, 2008.
 
 ## Online courses
 SMO course, Haftka, Florida Institue of Technology
