@@ -49,7 +49,7 @@ PART1:  Optimization basics and structural optimization
 
 ## ADVANCED TOPOPT (FOR SUPAERO's students ONLY)
 
-[advTOPOPT](https://github.com/jomorlier/mdocourse/blob/master/advTOPOPT.md)
+[AdvTOPOPT](https://github.com/jomorlier/mdocourse/blob/master/AdvTOPOPT.md)
 
 
 ****
