@@ -37,6 +37,8 @@ PART1:  Optimization basics and structural optimization
 
 [Course 3](https://github.com/jomorlier/mdocourse/blob/master/Course3.md)
 
+[Lecture note](http://flowlab.groups.et.byu.net/mdobook.pdf) thanks to Prof Ning and Martins
+
 
 ## TUTORIALS on gradient sensitivity  C1/C2
 
