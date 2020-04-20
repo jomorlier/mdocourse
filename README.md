@@ -58,29 +58,25 @@ PART1:  Optimization basics and structural optimization
 PART2:  Multidisciplinary Optimization
 ****
 
-A short intro by Prof. MORLIER
+## A short intro by Prof. MORLIER
 [MDAO](https://github.com/jomorlier/mdocourse/blob/master/mdo.md)
 
+## Q&A session
 Then detailed planning of ZOOM Sessions with my colleagues of ONERA
 Course 1- 06/05/2020 – 09h-11h (via ZOOM)
 ZOOM : 1h30 (NB,TH) 
-1.	Introduction MDO/MDA, google colab, OpenMDAO, sellar problem
-TO DO in AUTONOMY
-Sellar in OpenMDAO, MDA
+Introduction MDO/MDA, google colab, OpenMDAO, sellar problem
+TO DO in AUTONOMY: Sellar in OpenMDAO, MDA
 
 Course 2  - 11/05/2020 – 14h-16h (via ZOOM)
 ZOOM : 1h30 (NB,TH) 
-1.	Feedback on sellar problem
-2.	Formulation MDF IDF, MAUD, sellar problem
-TO DO in AUTONOMY
-Sellar in OpenMDAO, MDO w/o gradient
+Feedback on sellar problem + Formulation MDF IDF, MAUD
+TO DO in AUTONOMY: Sellar in OpenMDAO, MDO w/o gradient
 
 Course 3  - 15/05/2020 – 09h-11h (via ZOOM)
- 
 ZOOM : 1h30 (SD,TH) 
-1.	Feedback on sellar problem
-2.	Play with preliminary Aircraft Design tool : OpenAerostruct, OAS
-3.	MDA and solver options for MDO
+Feedback on sellar problem, Play with OpenAerostruct, OAS
+MDA and solver options for MDO
 
 TO DO in AUTONOMY
 1.	Use OAS for Aerodynamics shape Analysis and Optimization only
@@ -88,15 +84,14 @@ TO DO in AUTONOMY
 
 Course 4  - 18/05/2020 – 14-15h (via ZOOM)  
 ZOOM : 1h (SD,TH) 
-1.	Feedback on OAS
-2.	Fully coupled MDO for OAS introduction
+Feedback on OAS, Fully coupled MDO for OAS introduction
 TO DO in AUTONOMY
 1.	Breguet Equation (Fuel optimization)
 2.	MDF versus Sequential
 
 Course 5  - 26/05/2020 – 09h-11h (via ZOOM)
 ZOOM : 1h (SD,TH)
-1.	Feedback on OAS 
+Feedback on OAS 
 
 ****
 PART3:  Surrogate Modeling and UQ
