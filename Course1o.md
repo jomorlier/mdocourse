@@ -10,6 +10,8 @@ Your first exercice available on LMS [slide C1o with audio](https://app.amanote.
 
 ![Your first analytical gradient](IMG_3793.jpg) 
 
+[Help fmincon](fmincon.pdf)
+
 
 Numerical tools [slide C1o with audio](https://app.amanote.com/note-taking/document/149e6787-957c-4b48-a285-53fccbc1e0be)
 
