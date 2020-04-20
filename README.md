@@ -18,11 +18,11 @@ PART1:  Optimization basics and structural optimization
 ## Q&A session 
 5 videoconferences (ZOOM) planned on:
 
-1. Monday 20th of april 2020 9H30-10H30 Kick Off + help on assignement 1 fmincon(ZOOM, J. MORLIER) 
-2. Wednesday 22th of april 2020 9H30-10H30 Q&A session and feedback on assignement 2 sensitivities (ZOOM, J. MORLIER) 
-3. Monday 27th of april 2020 8H00-10H00  Q&A session and feedback on Exercice 1 truss optimization (ZOOM, M. HERRAZ, G. CAPASSO)
-4. Monday 27th of april 2020 10H00-11H00  Q&A session and help on mini project topopt 3* (ZOOM, J. MORLIER) 
-5. Wednesday 29th of april 2020 13H45-15H45  Q&A session and feedback on mini project topopt 3* (ZOOM, M. HERRAZ, G. CAPASSO) 
+1. Monday 20th of april 2020 9H30-10H30 Kick Off + help on assignement 1 fmincon(ZOOM, JM) 
+2. Wednesday 22th of april 2020 9H30-10H30 Q&A session and feedback on assignement 2 sensitivities (ZOOM, JM) 
+3. Monday 27th of april 2020 8H00-10H00  Q&A session and feedback on Exercice 1 truss optimization (ZOOM, MH,GC)
+4. Monday 27th of april 2020 10H00-11H00  Q&A session and help on mini project topopt 3* (ZOOM, JM) 
+5. Wednesday 29th of april 2020 13H45-15H45  Q&A session and feedback on mini project topopt 3* (ZOOM,MH,GC) 
 
 
 ## AUDIO 
