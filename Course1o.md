@@ -8,7 +8,7 @@ Quiz on topopt [slide C1o with audio](https://app.amanote.com/note-taking/docume
 
 Your first exercice available on LMS [slide C1o with audio](https://app.amanote.com/note-taking/document/90346056-005e-46a1-95c5-cf346eb28692)
 
-![Your first analytical gradient](IMG_3793.jpg =0.2x) 
+![Your first analytical gradient](IMG_3793.jpg) 
 
 
 Numerical tools [slide C1o with audio](https://app.amanote.com/note-taking/document/149e6787-957c-4b48-a285-53fccbc1e0be)
