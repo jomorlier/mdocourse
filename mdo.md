@@ -8,6 +8,8 @@ Here is a simple example using
 
 ## MDO
 
+[openMDAO](https://openmdao.org)
+
 A tiny introduction to MDO 21/2/19 [at ICA](https://github.com/mid2SUPAERO/Outputs/blob/master/Presentation_JM_MDO-compressed.pdf)
 
 MDO in academia: From Classrooms to Research (and vice versa) 19/11/19 [at 2nd European Workshop on MDO for Industrial Applications in Aeronautics IRT SE](https://github.com/mid2SUPAERO/Outputs/blob/master/MDOinACADEMIA-compressed.pdf)
