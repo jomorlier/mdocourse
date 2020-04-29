@@ -16,13 +16,7 @@ PART1:  Optimization basics and structural optimization
 
 
 ## Q&A session 
-5 videoconferences (ZOOM) planned on:
-
-1. Monday 20th of april 2020 9H30-10H30 Kick Off + help on assignement 1 fmincon(ZOOM, JM) 
-2. Wednesday 22th of april 2020 9H30-10H30 Q&A session and feedback on assignement 2 sensitivities (ZOOM, JM) 
-3. Monday 27th of april 2020 8H00-10H00  Q&A session and feedback on Exercice 1 truss optimization (ZOOM, MH,GC)
-4. Monday 27th of april 2020 10H00-11H00  Q&A session and help on mini project topopt 3* (ZOOM, JM) 
-5. Wednesday 29th of april 2020 13H45-15H45  Q&A session and feedback on mini project topopt 3* (ZOOM,MH,GC) 
+5 videoconferences (ZOOM) done
 
 
 ## AUDIO 
@@ -102,6 +96,7 @@ PART3:  Surrogate Modeling and UQ
 
 [GP](https://github.com/jomorlier/mdocourse/blob/master/gp.md)
 
+## Q&A session 
 Course 1  - 27/05/2020 – 14h-15h (via ZOOM) Surrogate modeling in industry JMC
 
 Course 2  - 03/06/2020 – 9h15-10h15 (via ZOOM) Robust Design CG
