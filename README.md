@@ -49,7 +49,7 @@ PART1:  Optimization basics and structural optimization
 
 
 ****
-PART2:  Multidisciplinary Optimization
+PART2:  Multidisciplinary Design Optimization
 ****
 
 ## A short intro by Prof. MORLIER
