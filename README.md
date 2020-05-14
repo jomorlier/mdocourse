@@ -57,17 +57,8 @@ PART2:  Multidisciplinary Design Optimization
 
 ## Q&A session
 Then detailed planning of ZOOM Sessions with my colleagues of ONERA
-Course 1- 06/05/2020 – 09h-11h (via ZOOM)
-ZOOM : 1h30 (NB,TH) 
-Introduction MDO/MDA, google colab, OpenMDAO, sellar problem
-
-TO DO in AUTONOMY: Sellar in OpenMDAO, MDA
-
-Course 2  - 11/05/2020 – 14h-16h (via ZOOM)
-ZOOM : 1h30 (NB,TH) 
-Feedback on sellar problem + Formulation MDF IDF, MAUD
-
-TO DO in AUTONOMY: Sellar in OpenMDAO, MDO w/o gradient
+2 first lessons. done
+Introduction MDO/MDA, formulation, google colab, OpenMDAO, sellar problem
 
 Course 3  - 15/05/2020 – 09h-11h (via ZOOM)
 ZOOM : 1h30 (SD,TH) 
