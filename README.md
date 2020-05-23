@@ -57,25 +57,8 @@ PART2:  Multidisciplinary Design Optimization
 
 ## Q&A session
 Then detailed planning of ZOOM Sessions with my colleagues of ONERA
-2 first lessons. done
+4 first lessons. done
 Introduction MDO/MDA, formulation, google colab, OpenMDAO, sellar problem
-
-Course 3  - 15/05/2020 – 09h-11h (via ZOOM)
-ZOOM : 1h30 (SD,TH) 
-Feedback on sellar problem, Play with OpenAerostruct, OAS
-MDA and solver options for MDO
-
-TO DO in AUTONOMY
-1.	Use OAS for Aerodynamics shape Analysis and Optimization only
-2.	Use OAS for Structural Analysis and Optimization only
-
-Course 4  - 18/05/2020 – 14-15h (via ZOOM)  
-ZOOM : 1h (SD,TH) 
-Feedback on OAS, Fully coupled MDO for OAS introduction
-
-TO DO in AUTONOMY
-1.	Breguet Equation (Fuel optimization)
-2.	MDF versus Sequential
 
 Course 5  - 26/05/2020 – 09h-11h (via ZOOM)
 ZOOM : 1h (SD,TH)
@@ -88,12 +71,12 @@ PART3:  Surrogate Modeling and UQ
 [GP](https://github.com/jomorlier/mdocourse/blob/master/gp.md)
 
 ## Q&A session 
-Course 1  - 27/05/2020 – 14h-15h (via ZOOM) Surrogate modeling in industry JMC
+Course 1  - 27/05/2020 – 14h-16h (via ZOOM) Surrogate modeling in industry JMC
 
-Course 2  - 03/06/2020 – 9h15-10h15 (via ZOOM) Robust Design CG
+Course 2  - 03/06/2020 – 9h15-10h15 (via ZOOM) Robust Design CG *Project MARKED
 
-Course 3 - 05/06/2020 – 9h15-10h15 (via ZOOM) Uncertainty Quantification JM 
-
+Course 3 - 05/06/2020 – 9h15-10h15 (via ZOOM) Uncertainty Quantification JM *Project MARKED
+  
 
 ****
 REFERENCES
