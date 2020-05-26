@@ -57,12 +57,8 @@ PART2:  Multidisciplinary Design Optimization
 
 ## Q&A session
 Then detailed planning of ZOOM Sessions with my colleagues of ONERA
-4 first lessons. done
+5 first lessons. done
 Introduction MDO/MDA, formulation, google colab, OpenMDAO, sellar problem
-
-Course 5  - 26/05/2020 – 09h-11h (via ZOOM)
-ZOOM : 1h (SD,TH)
-Feedback on OAS 
 
 ****
 PART3:  Surrogate Modeling and UQ
