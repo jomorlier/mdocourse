@@ -67,11 +67,7 @@ PART3:  Surrogate Modeling and UQ
 [GP](https://github.com/jomorlier/mdocourse/blob/master/gp.md)
 
 ## Q&A session 
-Course 1  - 27/05/2020 – 14h-16h (via ZOOM) Surrogate modeling in industry JMC
-
-Course 2  - 03/06/2020 – 9h15-10h15 (via ZOOM) Robust Design CG *Project MARKED
-
-Course 3 - 05/06/2020 – 9h15-10h15 (via ZOOM) Uncertainty Quantification JM *Project MARKED
+3 ZOOM sessions done
   
 
 ****
