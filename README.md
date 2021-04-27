@@ -21,6 +21,8 @@ PART1:  Optimization basics and structural optimization
 
 ## AUDIO 
 
+For students not familliar with [FEA](https://www.youtube.com/watch?v=GHjopp47vvQ)
+
 [Amanote's tutorial](https://www.youtube.com/watch?v=DvLyo9mtf3U)
 
 [Course 1](https://github.com/jomorlier/mdocourse/blob/master/Course1.md)
