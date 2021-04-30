@@ -16,7 +16,7 @@ PART1:  Optimization basics and structural optimization
 
 
 ## Q&A session 
-5 videoconferences (ZOOM) done
+
 
 
 ## AUDIO 
@@ -58,18 +58,21 @@ PART2:  Multidisciplinary Design Optimization
 [MDAO](https://github.com/jomorlier/mdocourse/blob/master/mdo.md)
 
 ## Q&A session
-Then detailed planning of ZOOM Sessions with my colleagues of ONERA
-5 first lessons. done
+detailed planning with my colleagues of ONERA
 Introduction MDO/MDA, formulation, google colab, OpenMDAO, sellar problem
 
 ****
 PART3:  Surrogate Modeling and UQ
 ****
 
-[GP](https://github.com/jomorlier/mdocourse/blob/master/gp.md)
+[Artificial Inteligence for Engineering](https://www.monolithai.com)
+
+[Surrogate Modeling](https://github.com/jomorlier/mdocourse/blob/master/gp.md)
+
+Have a look to our tutorials on SMT [The Surrogate Modeling Toolbox](https://github.com/SMTorg/SMT)
 
 ## Q&A session 
-3 ZOOM sessions done
+
   
 
 ****
