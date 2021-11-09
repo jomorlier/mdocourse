@@ -10,16 +10,12 @@ On some vulgarization articles
 [Theconversation on topopt](https://www.linkedin.com/pulse/possible-build-aircraft-wing-lego-joseph-morlier/)
 
 
+
+## PART1:  Optimization basics and structural optimization
+
 ****
-PART1:  Optimization basics and structural optimization
+SLIDES WITH AUDIO 
 ****
-
-
-## Q&A session 
-
-
-
-## AUDIO 
 
 For students not familliar with [FEA](https://www.youtube.com/watch?v=GHjopp47vvQ)
 
@@ -36,34 +32,50 @@ For students not familliar with [FEA](https://www.youtube.com/watch?v=GHjopp47vv
 [Lecture note](http://flowlab.groups.et.byu.net/mdobook.pdf) thanks to Prof Ning and Martins
 
 
-## TUTORIALS on gradient sensitivity  C1/C2
+****
+TUTORIALS on gradient sensitivity  C1/C2
+****
+
 
 [TutorialC1C2](https://github.com/jomorlier/mdocourse/blob/master/tutorialC1C2.md)
 
+TUTORIALS on gradient sensitivity  C1/C2
 
-## Tutorials on TOPOPT C3
+****
+TUTORIALS on TOPOPT C3
+****
+
 
 [TOPOPT](https://github.com/jomorlier/mdocourse/blob/master/TOPOPT.md)
 
-## ADVANCED TOPOPT (FOR SUPAERO's students ONLY)
+
+****
+ADVANCED TOPOPT (FOR SUPAERO's students ONLY)
+****
 
 [AdvTOPOPT](https://github.com/jomorlier/mdocourse/blob/master/AdvTOPOPT.md)
 
 
+
+## PART2:  Multidisciplinary Design Optimization
+
+
 ****
-PART2:  Multidisciplinary Design Optimization
+A short intro by Prof. MORLIER
 ****
 
-## A short intro by Prof. MORLIER
 [MDAO](https://github.com/jomorlier/mdocourse/blob/master/mdo.md)
 
-## Q&A session
+
+****
+Q&A session
+****
 detailed planning with my colleagues of ONERA
 Introduction MDO/MDA, formulation, google colab, OpenMDAO, sellar problem
 
-****
-PART3:  Surrogate Modeling and UQ
-****
+
+## PART3:  Surrogate Modeling and UQ
+
 
 [Artificial Inteligence for Engineering](https://www.monolithai.com)
 
