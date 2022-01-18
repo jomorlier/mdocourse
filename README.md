@@ -1,4 +1,4 @@
-# mdocourse 2020
+# mdocourse 
 The slides of the different lectures are available on *SUPAERO's LMS*.
 Course with participation of Professors/researchers from SUPAERO, ICA, ONERA
 
