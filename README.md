@@ -81,6 +81,8 @@ Introduction MDO/MDA, formulation, google colab, OpenMDAO, sellar problem
 
 [Surrogate Modeling](https://github.com/jomorlier/mdocourse/blob/master/gp.md)
 
+[Machine Learning in Mechanics](https://imechanica.org/node/23957) thanks to Miguel Bessa
+
 Have a look to our tutorials on SMT [The Surrogate Modeling Toolbox](https://github.com/SMTorg/SMT)
 
 ## Q&A session 
