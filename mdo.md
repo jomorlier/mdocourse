@@ -7,9 +7,9 @@ Here is a simple example using
 
 
 ## MDO
-Crystal clear [introduction to OpenMDAO](https://www.youtube.com/playlist?list=PLPusXFXT29sXIwZfZf3tLs3wr1sPk7d5J)
+Crystal clear [introduction to OpenMDAO](https://www.youtube.com/playlist?list=PLPusXFXT29sXIwZfZf3tLs3wr1sPk7d5J
 
-Github [webpage](https://github.com/johnjasa/openmdao_training)
+with the online content on Github by John JASA [webpage](https://github.com/johnjasa/openmdao_training)
 
 [openMDAO](https://openmdao.org)
 
