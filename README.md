@@ -64,12 +64,14 @@ ADVANCED TOPOPT (FOR SUPAERO's students ONLY)
 A short intro by Prof. MORLIER
 ****
 
-[MDAO](https://github.com/jomorlier/mdocourse/blob/master/mdo.md)
+
 
 Professors Martins and Ning have published a new text book on multidisciplinary design optimization, and they’ve generously decided to give the [digital version away for free](https://mdobook.github.io/)!
 There are good lessons on Problem formulation (Section 1.2), comparisons of gradient-based and gradient-free algorithms (Sections 1.4.1-1.4.3), and overview of numerical solver algorithms (Section 3.6), and a great introduction to various MDO concepts (Section 13) — including an introduction to the MAUD equations that underpin OpenMDAO (Section 13.2.6). If you want to learn more about some of the various techniques for taking derivatives of your numerical models, I highly recommend Chapter 6.
 They’ve provide code and examples from the textbook in a [companion github repo](https://github.com/mdobook/resources). You can learn more about [how AD works](https://github.com/mdobook/resources/tree/main/exercises/ad_mydual), test out [surrogate modeling methods](https://github.com/mdobook/resources/tree/main/exercises/surrogate), or try out a [10 bar truss example](https://github.com/mdobook/resources/tree/main/exercises/tenbartruss).
 They also have a set of [lectures](https://www.youtube.com/playlist?list=PLj6pNSgoumyfNUw0T_dOv5g6QzDf6tHmq) based on the content of the book free on youtube
+
+[Go deeper in MDAO by Prof. Morlier](https://github.com/jomorlier/mdocourse/blob/master/mdo.md)
 
 ****
 Q&A session
