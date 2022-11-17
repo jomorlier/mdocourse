@@ -91,7 +91,7 @@ Introduction MDO/MDA, formulation, google colab, OpenMDAO, sellar problem
 
 [To go deeper in Surrogate Modeling](http://videolectures.net/mla09_forrester_sbcmoo/)
 
-Play with SMT [https://github.com/SMTorg/smt/tree/master/tutorial)
+[Play with SMT](https://github.com/SMTorg/smt/tree/master/tutorial)
 
 ## Q&A session 
 
