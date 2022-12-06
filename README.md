@@ -11,7 +11,7 @@ On some vulgarization articles
 
 
 
-## PART1:  Optimization basics and structural optimization
+## PART1:  Design Optimization basics and structural optimization
 
 ****
 SLIDES WITH AUDIO 
