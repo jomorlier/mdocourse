@@ -12,4 +12,7 @@ With or Without Gradient [slide C1 with audio](https://app.amanote.com/note-taki
 
 A brief intro to complex step for evaluating derivatives using MATLAB livescript [slide C1 with audio](https://app.amanote.com/note-taking/document/e6985ed9-2b0a-48ae-b6a1-c428b0c39b47)
 
+Which MATLAB Optimization functions can solve my problem? [link](https://blogs.mathworks.com/matlab/2023/01/04/which-matlab-optimization-functions-can-solve-my-problem/)
+
+
 
