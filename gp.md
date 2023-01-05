@@ -5,7 +5,7 @@ MATLAB tutorial on regression using [GP, or Kriging](http://htmlpreview.github.i
 
 Example from MathWorks [doc1](https://fr.mathworks.com/help/stats/fitrgp.html#References)
 
-Example from MathWorks [doc2(https://fr.mathworks.com/help/stats/gaussian-process-regression-models.html)
+Example from MathWorks [doc2](https://fr.mathworks.com/help/stats/gaussian-process-regression-models.html)
 
 
 It's always working ? On interpolation **and** extrapolation ?
