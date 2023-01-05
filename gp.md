@@ -26,7 +26,7 @@ Try our SMT Python package for doing Efficient Global Optimization
 
 https://smt.readthedocs.io/en/latest/_src_docs/applications/ego.html
 
-nice application http://webfoil.engin.umich.edu/about
+nice application http://webfoil.engin.umich.edu/about revisted by SMT team [learning Airfoil](https://smt.readthedocs.io/en/latest/_src_docs/examples/airfoil_parameters/learning_airfoil_parameters.html)
 
 
 ## ROM 
