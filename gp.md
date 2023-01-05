@@ -3,6 +3,11 @@
 
 MATLAB tutorial on regression using [GP, or Kriging](http://htmlpreview.github.io/?https://github.com/jomorlier/mdocourse/blob/master/GP_Tutorial/GP_Tutorial.html)
 
+Example from MathWorks [doc1](https://fr.mathworks.com/help/stats/fitrgp.html#References)
+
+Example from MathWorks [doc2](https://fr.mathworks.com/help/stats/fitrgp.html#References)](https://fr.mathworks.com/help/stats/gaussian-process-regression-models.html)
+
+
 It's always working ? On interpolation **and** extrapolation ?
 By the way, GP is an interpolating **or** regressing method ? Play with the code.
 
