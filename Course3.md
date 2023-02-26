@@ -19,6 +19,9 @@ First Exercice [slide C3 with audio](https://app.amanote.com/note-taking/documen
 
 Conclusion [slide C3 with audio](https://app.amanote.com/note-taking/document/10f1aa92-2263-4867-9271-6488ac457514)
 
+
+RE [play online with colab](https://github.com/jomorlier/mdocourse/blob/master/AdvancedTopOpt/Top88_Tutorial.ipynb)
+
 ALTAIR's Blog [TOPOPT](https://blog.altair.com/bang-buck-getting-additive-manufacturing/)
 
 ALTAIR's video [TOPOPT](https://altairuniversity.com/13147-topology-optimization-tutorial-3-point-bending-of-a-beam-1d-2d-and-3d-2)
