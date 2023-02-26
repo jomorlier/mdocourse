@@ -31,7 +31,7 @@ For students not familliar with [FEA](https://www.youtube.com/watch?v=GHjopp47vv
 
 [Lecture note](http://flowlab.groups.et.byu.net/mdobook.pdf) thanks to Prof Ning and Martins
 
-[Course 4 on ecodesign](https://github.com/jomorlier/mdocourse/blob/master/Course4.md)
+[NEW!! Course 4 !! Ecodesign](https://github.com/jomorlier/mdocourse/blob/master/Course4.md)
 
 [Lecture note](http://flowlab.groups.et.byu.net/mdobook.pdf) thanks to Wikipedia
 
