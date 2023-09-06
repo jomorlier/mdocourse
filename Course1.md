@@ -14,5 +14,7 @@ A brief intro to complex step for evaluating derivatives using MATLAB livescript
 
 Which MATLAB Optimization functions can solve my problem? [link](https://blogs.mathworks.com/matlab/2023/01/04/which-matlab-optimization-functions-can-solve-my-problem/)
 
+[video](https://www.youtube.com/watch?v=GR4ff0dTLTw)
+
 
 
