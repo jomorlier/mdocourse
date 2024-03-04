@@ -84,6 +84,9 @@ Introduction MDO/MDA, formulation, google colab, OpenMDAO, sellar problem
 
 ## PART3:  Surrogate Modeling and UQ
 
+ [Course and Practice 2024](https://github.com/jomorlier/IA_CNRS_ICA)
+
+ More references
 
 [Artificial Inteligence for Engineering](https://www.monolithai.com)
 
