@@ -1,7 +1,7 @@
 ## Gaussian Processes aka Kriging
 
 
-MATLAB tutorial on regression using [GP, or Kriging](http://htmlpreview.github.io/?https://github.com/jomorlier/mdocourse/blob/master/GP_Tutorial/GP_Tutorial.html)
+MATLAB tutorial on regression using [GP, or Kriging](http://htmlpreview.github.io/?https://github.com/jomorlier/mdocourse/blob/master/GP_Tutorial/GP_Tutorial_JM.html)
 
 Example from MathWorks [doc1](https://fr.mathworks.com/help/stats/fitrgp.html#References)
 
